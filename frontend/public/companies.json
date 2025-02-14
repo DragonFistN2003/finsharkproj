@@ -1,0 +1,53 @@
+{
+    "companies": [
+      {
+        "name": "Apple Inc.",
+        "symbol": "AAPL",
+        "industry": "Technology",
+        "headquarters": "Cupertino, California, USA",
+        "founded": 1976,
+        "website": "https://www.apple.com"
+      },
+      {
+        "name": "Microsoft Corporation",
+        "symbol": "MSFT",
+        "industry": "Technology",
+        "headquarters": "Redmond, Washington, USA",
+        "founded": 1975,
+        "website": "https://www.microsoft.com"
+      },
+      {
+        "name": "Amazon.com, Inc.",
+        "symbol": "AMZN",
+        "industry": "E-commerce",
+        "headquarters": "Seattle, Washington, USA",
+        "founded": 1994,
+        "website": "https://www.amazon.com"
+      },
+      {
+        "name": "Tesla, Inc.",
+        "symbol": "TSLA",
+        "industry": "Automotive",
+        "headquarters": "Austin, Texas, USA",
+        "founded": 2003,
+        "website": "https://www.tesla.com"
+      },
+      {
+        "name": "Alphabet Inc.",
+        "symbol": "GOOGL",
+        "industry": "Technology",
+        "headquarters": "Mountain View, California, USA",
+        "founded": 2015,
+        "website": "https://www.abc.xyz"
+      },
+      {
+        "name": "Meta Platforms, Inc.",
+        "symbol": "META",
+        "industry": "Social Media",
+        "headquarters": "Menlo Park, California, USA",
+        "founded": 2004,
+        "website": "https://www.meta.com"
+      }
+    ]
+  }
+  
